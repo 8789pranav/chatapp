@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">chatApp</string>
+    <string name="login">login</string>
+    <string name="permission_necessary">permission_necessary</string>
+    <string name="storage_permission_is_encessary_to_wrote_event">storage_permission_is_encessary_to_wrote_event</string>
+    <string name="register">register</string>
+
+    <string name="forgot_password">forgot_password?</string>
+
+    <string name="email">Email</string>
+
+    <string name="password">password</string>
+
+    <string name="repassword">repassword</string>
+
+    <string name="no_account">no_account? </string>
+
+    <string name="cancel">cancel</string>
+
+    <string name="fullName">fullName</string>
+
+    <string name="phoneNumber">phoneNumber</string>
+
+    <string name="gender">gender</string>
+
+    <string name="male">male</string>
+
+    <string name="female">female</string>
+
+    <string name="dateOfBirth">dateOfBirth</string>
+
+    <string name="address">address</string>
+
+    <string name="description">description</string>
+
+    <string name="edit_button">edit_button</string>
+
+    <string name="add_friend_button">add_friend_button</string>
+
+    <string name="reject_friend_button">reject_friend_button</string>
+
+    <string name="view_info_friend">view_info_friend</string>
+
+    <string name="list_request">list_request</string>
+
+    <string name="search_friend_message">search_friend_message...</string>
+
+    <string name="search_friend_by_phone">search_friend_by_phone</string>
+
+    <string name="search_friend_by_email">search_friend_by_email</string>
+
+    <string name="friend">friend</string>
+
+    <string name="group">group</string>
+
+    <string name="message">message...</string>
+
+    <string name="email_reset_password">email_reset_password</string>
+
+    <string name="choose_picture_avatar">choose_picture_avatar</string>
+
+    <string name="camera_picture_avatar">camera_picture_avatar</string>
+
+    <string name="choose_picture_background">choose_picture_background</string>
+
+    <string name="camera_picture_background">camera_picture_background</string>
+
+    <string name="default_avatar">default_avatar</string>
+
+    <string name="default_background">default_background</string>
+
+    <string name="quit">quit</string>
+
+
+    -
+    <string-array name="private_status_array">
+
+        <item>Everybody</item>
+
+        <item>Friend</item>
+
+        <item>Only me</item>
+
+    </string-array>
+</resources>

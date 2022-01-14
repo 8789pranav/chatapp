@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878034490745",
+    "firebase_url": "https://everest-c4e0e.firebaseio.com",
+    "project_id": "everest-c4e0e",
+    "storage_bucket": "everest-c4e0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878034490745:android:85d6617c029d42f4d88ba8",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878034490745-pu8op05nvl1id32njvne0b1c83jesojv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "56dee7eedae6b385cf65c9b41cf3aa6434f4c3cf"
+          }
+        },
+        {
+          "client_id": "878034490745-m29i8r8rqpl9cil6fi2nkcr4fkbvrjjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADZxa_cVZmQKZlyXQSWmrwcNDB4LGAo-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878034490745-m29i8r8rqpl9cil6fi2nkcr4fkbvrjjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
